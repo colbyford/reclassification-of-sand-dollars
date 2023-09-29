@@ -1,5 +1,7 @@
 # Phylogeny, ancestral ranges and reclassification of sand dollars
 
+[![](https://img.shields.io/badge/DOI:-10.1038/s41598--023--36848--0-blue)](https://www.nature.com/articles/s41598-023-36848-0#citeas)
+
 <h3 align="right">Hsin Lee, Kwen-Shen Lee, Chia-Hsin Hsu, Chen-Wei Lee, Ching-En Li, Jia-Kang Wang, Chien‑Chia Tseng, Wei-Jen Chen, Ching-Chang Horng, Colby T. Ford, Andreas Kroh, Omri Bronstein, Hayate Tanaka, Tatsuo Oji, Jih-Pai Lin, and Daniel Janies</h3>
 
 ## Abstract
